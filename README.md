@@ -13,3 +13,6 @@ This is my personal philosophy.
 * **Initiative** I will show initiative in solving problems.
 * **Enterprise** I will be enterprising with new projects.
 * **Optimistic** I will be optimistic rather than pessimistic.
+* **Strong** I endeavour to be strong.
+* **Wisdom** I endeavour to be wise.
+* **Stoic** I endeavour to be stoic.
