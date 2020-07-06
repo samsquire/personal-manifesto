@@ -17,3 +17,12 @@ This is my personal philosophy.
 * **Wisdom** I endeavour to be wise.
 * **Stoic** I endeavour to be stoic.
 * **Self-determination** My station is largely what I put in.
+* **Health**
+* **Invention**
+* **Pride**
+* **Family**
+* **Science**
+* **Art**
+* **Bravery**
+* **Dignity**
+* **Honor**
