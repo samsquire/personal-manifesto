@@ -19,7 +19,7 @@ This is my personal philosophy.
 * **Self-determination** My station is largely what I put in.
 * **Health**
 * **Invention**
-* **Pride**
+* **No Pride**
 * **Family**
 * **Science**
 * **Art**
