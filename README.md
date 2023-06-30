@@ -4,7 +4,7 @@ This is my personal philosophy.
 
 # Personal values
 
-* **Truth** The truth is of primary importance to me. What matters is what is true, regardless of its source or whether or not I agree or disagree with it.
+* **Truth** The truth is profoundly important to me.
 * **Integrity** I maintain a high integrity for myself
 * **Loyalty** I am loyal to those things that I love.
 * **Dignity** I shall never act to lower the dignity of another being. Or my own.
